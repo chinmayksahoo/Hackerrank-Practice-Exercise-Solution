@@ -5,10 +5,10 @@ This repository contains solutions to Hackerrank practice problems with Python 3
 
 If it was helpful please press a star.
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/chinmayksahoo/Hackerrank-Practice-Exercise-Solution.svg)](https://github.com/chinmayksahoo/Hackerrank-Practice-Exercise-Solution) 
-[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/chinmayksahoo/Hackerrank-Practice-Exercise-Solution.svg)](https://github.com/chinmayksahoo/Hackerrank-Practice-Exercise-Solution)
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/chinmayksahoo/Hackerrank-Practice-Exercise-Solution.svg)](https://github.com/chinmayksahoo/Hackerrank-Practice-Exercise-Solution) 
-[![GitHub stars](https://img.shields.io/github/stars/chinmayksahoo/Hackerrank-Practice-Exercise-Solution.svg)](https://github.com/chinmayksahoo/Hackerrank-Practice-Exercise-Solution)
+[![GitHub last commit](https://img.shields.io/github/last-commit/chinmayksahoo/Hackerrank-Practice-Exercise-Solution?logo=hackerrank&color=Green&logoColor=Green)](https://github.com/chinmayksahoo/Hackerrank-Practice-Exercise-Solution) 
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/chinmayksahoo/Hackerrank-Practice-Exercise-Solution?logo=hackerrank&color=Green&logoColor=Green)](https://github.com/chinmayksahoo/Hackerrank-Practice-Exercise-Solution)
+[![GitHub stars](https://img.shields.io/github/stars/chinmayksahoo/Hackerrank-Practice-Exercise-Solution?logo=hackerrank&color=Green&logoColor=Green)](https://github.com/chinmayksahoo/Hackerrank-Practice-Exercise-Solution)
+[![GitHub Search](https://img.shields.io/github/search/chinmayksahoo/Hackerrank-Practice-Exercise-Solution/search?color=Green&logo=Hackerrank&logoColor=Green)](https://github.com/chinmayksahoo/Hackerrank-Practice-Exercise-Solution)
 
 - Algorithms
     01. Warmup
