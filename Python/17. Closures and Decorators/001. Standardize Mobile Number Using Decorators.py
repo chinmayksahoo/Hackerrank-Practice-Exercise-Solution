@@ -13,5 +13,3 @@ def sort_phone(l):
 if __name__ == '__main__':
     l = [input() for _ in range(int(input()))]
     sort_phone(l) 
-
-
